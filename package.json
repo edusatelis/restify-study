@@ -11,9 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.13",
     "nodemon": "^2.0.6",
-    "restify": "^8.5.1"
+    "restify": "^8.5.1",
+    "validar-cpf": "^2.1.2"
   }
 }
